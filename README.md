@@ -9,6 +9,12 @@
   <b>skills, projects, experience and journey.</b>
 </p>
 
+<p align="center">
+  <a href="https://portfolio-prajitha.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-Visit%20Website-FFB6C1?style=for-the-badge&labelColor=000000&color=FFB6C1" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 Tech Stack
